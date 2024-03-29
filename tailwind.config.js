@@ -27,7 +27,9 @@ export default {
   },
   plugins: [
     themer({
-      palette: "trust"
+      palette: {
+        extend: "nature"
+      }
     }),
   ],
 };
