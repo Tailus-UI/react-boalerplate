@@ -5,7 +5,6 @@ import {
     type TextWeightProp
 } from "@tailus/themer"
 import React from "react"
-import { twMerge } from "tailwind-merge";
 
 type TextSize = TextVariants["size"]
 type TitleSizeProp = TextSize |  {
