@@ -23,10 +23,10 @@
     /* Paths */
     "baseUrl": "./src",
     "paths": {
-      "components/*": ["components/*"],
-      "tailus-ui/*": ["components/tailus-ui/*"],
-      "constants/*": ["constants/*"],
-      "lib/*": ["lib/*"]
+      "@components/*": ["components/*"],
+      "@tailus-ui/*": ["components/tailus-ui/*"],
+      "@constants/*": ["constants/*"],
+      "@lib/*": ["lib/*"]
     }
   },
   "include": ["src"],

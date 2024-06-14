@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background: #000;
-}
-
 @font-face {
   font-family: 'Geist';
   src: url('/fonts/Geist-Bold.otf') format('opentype');
